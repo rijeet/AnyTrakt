@@ -8,6 +8,12 @@ public class Read_List {
     String Genre;
     String Rating;
 
+    
+
+
+
+
+
     public Read_List() {
     }
 
