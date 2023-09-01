@@ -10,6 +10,4 @@ public class NormalSearchTableController implements Initializable {
     public void initialize(URL url, ResourceBundle resourceBundle) {
 
     }
-
-
 }
