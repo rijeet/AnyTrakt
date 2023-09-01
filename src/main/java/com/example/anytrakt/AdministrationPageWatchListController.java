@@ -9,10 +9,10 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
 
-import java.io.IOException;
+
 import java.net.URL;
 import java.util.ResourceBundle;
-
+import java.io.IOException;
 public class AdministrationPageWatchListController implements Initializable {
 
     @FXML
