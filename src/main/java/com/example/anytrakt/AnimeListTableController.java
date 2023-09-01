@@ -28,6 +28,8 @@ public class AnimeListTableController implements Initializable {
     ObservableList<String> GenreList = FXCollections.observableArrayList("Animation","Adventure","Action","Biography","Comedy","Crime","Documentary","Drama","Family","Fantasy","History","Horror","Mystery","Reality-TV","Romance","Sci-Fi","Sport","Thriller","War");
 
 
+
+    
     @FXML
     private TableColumn<Watch_List, String> Genre;
 
