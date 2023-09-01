@@ -147,5 +147,9 @@ public class SearchPageController implements Initializable {
 
         Movie_Table.setItems(selectedMovie);
 
+    
+
+
+
     }
 }
