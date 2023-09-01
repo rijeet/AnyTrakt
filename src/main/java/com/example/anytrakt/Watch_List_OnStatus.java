@@ -69,4 +69,9 @@ public class Watch_List_OnStatus {
                 ", OnStatus='" + OnStatus + '\'' +
                 '}';
     }
-}
+
+
+
+
+
+}   
